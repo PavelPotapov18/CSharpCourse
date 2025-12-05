@@ -1,10 +1,20 @@
-﻿namespace App1;
+using System;
+using System.Runtime;
+using System.Collections.Generic;
+using System.Linq;
 
-class Program
+namespace App1
 {
-    static void Main(string[] args)
+    public class Program
     {
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
+        public static void Main(string[] args)
+        {
+            int a = 10;
+            int b = 5;
+            int sum = a + b;
+            Console.WriteLine($"{a} + {b} = {sum}");
+            Console.Write("Нажмите любую кнопку");
+
+        }
     }
 }
