@@ -13,4 +13,4 @@ class Program
         b = d;
         Console.WriteLine($"{a} {b} {c}");
     }
-}
+} 
