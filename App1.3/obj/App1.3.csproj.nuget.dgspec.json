@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj": {}
+    "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj": {}
   },
   "projects": {
-    "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj": {
+    "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj",
+        "projectUniqueName": "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj",
         "projectName": "App1.3",
-        "projectPath": "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj",
+        "projectPath": "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\App1.3.csproj",
         "packagesPath": "C:\\Users\\ppo266\\.nuget\\packages\\",
-        "outputPath": "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\obj\\",
+        "outputPath": "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App1.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ppo266\\AppData\\Roaming\\NuGet\\NuGet.Config"

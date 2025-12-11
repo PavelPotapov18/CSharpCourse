@@ -8,7 +8,7 @@ class Program
         // Проверка, что число трехзначное
         if(number / 1000 != 0 || number / 100 == 0)
         {
-            Console.WriteLine("Исходное число должно быть трехзначным");
+            Console.WriteLine("Исходное число должно быть трехзначным!!!");
         }
         else
         {
@@ -32,7 +32,7 @@ class Program
                     unitStr = "три";
                     break;
                 case 4:
-                    unitStr = "яетыре";
+                    unitStr = "четыре";
                     break;
                 case 5:
                     unitStr = "пять";
