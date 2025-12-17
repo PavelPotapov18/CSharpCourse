@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App3.1\\App3.1.csproj",
+      "projectUniqueName": "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App3.1\\App3.1.csproj",
       "projectName": "App3.1",
-      "projectPath": "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App3.1\\App3.1.csproj",
+      "projectPath": "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App3.1\\App3.1.csproj",
       "packagesPath": "C:\\Users\\ppo266\\.nuget\\packages\\",
-      "outputPath": "c:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App3.1\\obj\\",
+      "outputPath": "C:\\OneDrive\\OneDrive - Inproec\\Desktop\\CSharpCourse\\App3.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ppo266\\AppData\\Roaming\\NuGet\\NuGet.Config"
