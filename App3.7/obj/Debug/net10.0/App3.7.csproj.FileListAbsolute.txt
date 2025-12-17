@@ -1,0 +1,15 @@
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\bin\Debug\net10.0\App3.7.exe
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\bin\Debug\net10.0\App3.7.deps.json
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\bin\Debug\net10.0\App3.7.runtimeconfig.json
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\bin\Debug\net10.0\App3.7.dll
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\bin\Debug\net10.0\App3.7.pdb
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.AssemblyInfoInputs.cache
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.AssemblyInfo.cs
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.sourcelink.json
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.dll
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\refint\App3.7.dll
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.pdb
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\App3.7.genruntimeconfig.cache
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App3.7\obj\Debug\net10.0\ref\App3.7.dll
