@@ -1,0 +1,15 @@
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\bin\Debug\net10.0\App4.8.exe
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\bin\Debug\net10.0\App4.8.deps.json
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\bin\Debug\net10.0\App4.8.runtimeconfig.json
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\bin\Debug\net10.0\App4.8.dll
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\bin\Debug\net10.0\App4.8.pdb
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.AssemblyInfoInputs.cache
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.AssemblyInfo.cs
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.sourcelink.json
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.dll
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\refint\App4.8.dll
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.pdb
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\App4.8.genruntimeconfig.cache
+C:\OneDrive\OneDrive - Inproec\Desktop\CSharpCourse\App4.8\obj\Debug\net10.0\ref\App4.8.dll
